@@ -11,3 +11,18 @@
 
 
 > Technology affects every facet of our modern day lives, from business and the economy, to food security and education delivery. Now more than ever, the world needs the minds that will help solve the problems of tomorrow and build innovations and solutions to shape our world. Welcome to Software Engineering.. ~ [Alx](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)
+
+## Contributing
+
+Found an awesome technical writer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.github.com/bellodavid"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Bello</b></sub></a><br /><a href="#content-bellodavid" title="Content">🖋</a> <a href="https://github.com/bellodavid/alx software engineering solutions/commits?author=bellodavid" title="Documentation">📖</a> <a href="#design-bellodavid" title="Design">🎨</a></td>
+   
