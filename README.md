@@ -14,7 +14,7 @@
 
 ## Contributing
 
-Found an awesome technical writer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+Have an a great solution to any challenge.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
 
 
 ## Contributors ✨
@@ -24,5 +24,5 @@ Found an awesome technical writer, resource, article, blog, tool, video, speaker
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.github.com/bellodavid"><img src="https://user-images.githubusercontent.com/71158893/185927651-ef6f3226-47be-4de7-939c-0eb10eb5a221.jpg?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Bello</b></sub></a><br /><a href="#content-bellodavid" title="Content">🖋</a> <a href="https://github.com/bellodavid/alx software engineering solutions/commits?author=bellodavid" title="Documentation">📖</a> <a href="#design-bellodavid" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.github.com/bellodavid"><img src="https://user-images.githubusercontent.com/71158893/185927651-ef6f3226-47be-4de7-939c-0eb10eb5a221.jpg?v=4?s=100" height= "100px" width="100px;" alt=""/><br /><sub><b>David Bello</b></sub></a><br /><a href="#content-bellodavid" title="Content">🖋</a> <a href="https://github.com/bellodavid/alx software engineering solutions/commits?author=bellodavid" title="Documentation">📖</a> <a href="#design-bellodavid" title="Design">🎨</a></td>
    
