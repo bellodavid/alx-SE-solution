@@ -24,5 +24,5 @@ Have a great solution to any challenge? Please send me a pull request and follow
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.github.com/bellodavid"><img src="https://user-images.githubusercontent.com/71158893/185927651-ef6f3226-47be-4de7-939c-0eb10eb5a221.jpg?v=4?s=100" height= "120px" width="100px;" alt=""/><br /><sub><b>David Bello</b></sub></a><br /><a href="#content-bellodavid" title="Content">🖋</a> <a href="https://github.com/bellodavid/alx software engineering solutions/commits?author=bellodavid" title="Documentation">📖</a> <a href="#design-bellodavid" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.github.com/bellodavid"><img src="https://avatars.githubusercontent.com/u/71158893?s=400&u=bde8c64867035f2a83a913cd93ecc45ee4e8abbb&v=4v=4?s=100"  width="100px;" alt=""/><br /><sub><b>David Bello</b></sub></a><br /><a href="#content-bellodavid" title="Content">🖋</a> <a href="https://github.com/bellodavid/alx software engineering solutions/commits?author=bellodavid" title="Documentation">📖</a> <a href="#design-bellodavid" title="Design">🎨</a></td>
    
