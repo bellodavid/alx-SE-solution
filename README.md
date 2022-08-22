@@ -6,7 +6,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## This is for learning purpose only
-1. Don't copy and paste any code from here to your terminal. You could be penalized for that.
+1. Don't copy and paste codes from here to your terminal. You could be penalized for that.
 2. You can make contributions to this repository by either creating a pull request or sending your solution to us [WhatsApp](https://wa.link/ojzs70)
 
 
