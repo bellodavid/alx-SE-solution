@@ -1,5 +1,6 @@
+## 'Hi :wave:, <br /> We welcome all kinds of contributions, please feel free to contribute and/or ask questions. <br /> Someone will attend to your issue soon ☺️'
 # Curated ALX Software Engineering Technical Solutions
-##'Hi :wave:, <br /> We welcome all kinds of contributions, please feel free to contribute and/or ask questions. <br /> Someone will attend to your issue soon ☺️'
+
 
 [![ALX-SE](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
