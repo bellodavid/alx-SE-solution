@@ -1,4 +1,4 @@
-Warning: Don't copy and paste codes on your terminal, you could be pernalized for that
+Warning: Don't copy and paste codes on your terminal, you could be pernalized for that.
 
 ## Task 0: Create your answer directory
 
