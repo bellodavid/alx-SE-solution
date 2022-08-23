@@ -5,7 +5,7 @@ Warning: Don't copy and paste codes on your terminal, you could be pernalized fo
     mkdir 0x02_emacs (enter)
     ls (enter) to check if the new directory has been created
 
-    check your code
+    Check your code
 
 ## Task 1: Opening
     cd /root/0x02_emacs (enter)
@@ -47,5 +47,5 @@ Warning: Don't copy and paste codes on your terminal, you could be pernalized fo
 ## Task 6: Quitting
     cd /root/0x02_emacs (enter)
     echo "C-x C-c">quitting (enter)
-    
+
     Check your code
